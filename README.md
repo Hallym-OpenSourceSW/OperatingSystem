@@ -11,31 +11,37 @@
 
 *  *  *
 
-## 강의 스탭
-### 담당교수: [고영웅] (소프트웨어융합대학장, 소프트웨어융합대학 빅데이터전공)
-    - 교수실: 공학관 2층 A1208
-    - 이메일: yuko@hallym.ac.kr
-    - 전화번호: 033-248-2329 (교수실)
-    - 홈페이지:
+## 강의스탭
+### 담당교수: 고영웅    (소프트웨어융합대학장, 소프트웨어융합대학 빅데이터전공)
+   - 교수실: 공학관 2층 A1208   
+   - 이메일: yuko@hallym.ac.kr
+   - 전화번호: 033-248-2329 (교수실)
+   - 홈페이지:
 
 ### 담당조교: 김원표
-    - 연구실: 공학관 4층 A1409 (운영체제 연구실 & 조효진교수실험실)
-    - 이메일: skykwp@gmail.com
-    - 홈페이지: https://www.linkedin.com/in/wonpyo-kim-23b94a178/
+   - 연구실: 공학관 4층 A1409 (운영체제 연구실 & 조효진교수실험실)
+   - 이메일: skykwp@gmail.com
+   - 홈페이지: https://www.linkedin.com/in/wonpyo-kim-23b94a178/
    
 ## 교재
-    - 주교재: 
+   - 주교재: 
    
 ## 평가방법
-    - 강의식: 70%
-    - 실험/실습: 30%
+   - 강의식: 70%
+   - 실험/실습: 30%
 
-## 강의 스케줄 및 자료/노트
-   - **Chapter 1 :: From Zero to One (제로에서 하나까지!, [PPT](https://github.com/jeonggunlee/LogicDesign/blob/master/PPT/DDCA_Ch1.pdf))**
-      - 1주차: 수업 소개: 왜 논리회로를 공부해야할까 ?
-         - 인공지능, IoT (사물인터넷) 시대에 논리회로 및 컴퓨터 구조에 대한 이해는 왜 필요한가?
-         - Cloud 컴퓨팅 회사들은 왜 하드웨어 칩을 데이터 센터에 집적하는 것일까 ?
-         
+## 실습
+
+## 참조 사이트
+
+
+
+## 강의스케줄
+   - ** Week 1
+       - 운영체제 기본 개념이해
+         - 운영체제의 개념 및 구조
+         - 운영체제 실습
+         - 리눅스 시스템 사용법
             - [자료:인공지능 시대, 인공지능 하드웨어의 현재 상황](https://blog.lgcns.com/1804)
             ```
             최근 데이터 센터에서는 GPU, FPGA, ASIC 형태의 가속기를 서버에 장착 ... 된 프로세서 칩으로 빅데이터 시대에
@@ -92,17 +98,3 @@
       
    - **14주차: 기말고사**
    
-## 실습
-   ![Alt text](https://github.com/jeonggunlee/Computer_Arch_2018_Fall/blob/master/img/openss.png "오픈소스교과목")
-   - 실습 소프트웨어로써, **[LogiSim](http://www.cburch.com/logisim/)** 논리회로 설계 및 시뮬레이터를 사용합니다.
-      - Logisim은 Open Source Software이며, 누구나 자유롭게 사용가능하며, 소스코드 역시 오픈되어 있고 수정 가능합니다.
-         - It is free! (Logisim is open-source (GPL).)
-         
-   ![Alt text](http://www.cburch.com/logisim/shot-2.7.0.png)         
-      
-
-## 참조 사이트
-   - 참조 사이트
-   - [한림대학교 오픈소스 SW 교육센터](https://github.com/Hallym-OpenSourceSW/Hallym-OpenSourceSW.github.io)
-   
-
