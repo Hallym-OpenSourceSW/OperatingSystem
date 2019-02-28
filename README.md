@@ -37,49 +37,18 @@
 
 
 ## 강의스케줄
-   - ** Week 1
+   - **Week 1
        - 운영체제 기본 개념이해
+         ```
          - 운영체제의 개념 및 구조
-         - 운영체제 실습
-         - 리눅스 시스템 사용법
-            - [자료:인공지능 시대, 인공지능 하드웨어의 현재 상황](https://blog.lgcns.com/1804)
-            ```
-            최근 데이터 센터에서는 GPU, FPGA, ASIC 형태의 가속기를 서버에 장착 ... 된 프로세서 칩으로 빅데이터 시대에
-            엄청난 양의 연산이 필요한 데이터 ...
-            
-            * GPU : Graphic Processing Unit
-            * FPGA : Field Programmable Gate Array
-            * ASIC : Application Specific Integrated Circuit
-            ```
-            
-            ```
-            빅데이터 및 인공지능이 이 사회에 대두될 수 있었던 것은 고성능 컴퓨팅이 지원했기 때문이며,
-            이러한 고성능 컴퓨터는 빠르게 발전한 CPU 및 GPU 등이 없었으면 불가능. 
-            ```
-            - [동영상:네이버 클라우드 플랫폼의 CPU Intensive 서버](https://www.youtube.com/watch?v=o0fSu1iErGI)
-            - 고성능 가속기 데모: 인텔® Movidius **Neural Compute Stick** 2
-               - [동영상:Deep Learning with Intel](https://www.youtube.com/watch?time_continue=343&v=KuM67WfTXBQ): 프로젝트에 딥러닝을 쉽게 활용하는 방법에 대해서 설명
-            
-      - 2주차: 수의 표현 / 논리소자 / CMOS 
-         - 컴퓨터를 설계하는 가장 기초적인 작업: 데이터의 표현 - 수의 표현 (양수/음수)
-            - [자료:수의 표현](https://namu.wiki/w/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90%EC%84%9C%EC%9D%98%20%EC%88%98%20%ED%91%9C%ED%98%84)
-            - [동영상:이진수의 음수개념](https://www.youtube.com/watch?v=TvpBEXOMitE)
-            - [동영상:진법과 보수](https://www.youtube.com/watch?v=RF04L7KAmKA)
-         - 특정 기능을 갖는 회로 블럭을 만드는 기본 회로 소자: AND, OR, NOT, NAND, NOR 등
-            - [동영상:마인크래프트를 이용한 논리회로 이해하기](https://www.youtube.com/watch?v=8BCHLK0Aets)
-            - [동영상:논리회로의 개념과 논리식](https://www.youtube.com/watch?v=KxO89jV2s8o)
-            - [자료:마인크래프트로 컴퓨터 만들기](https://namu.wiki/w/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8/%ED%9A%8C%EB%A1%9C)
-         - 현대 반도체 기술에 대한 소개 - CMOS / FinFET
-         
-      - 3주차: 최근 프로세서 설계 경향: 클럭 주파수 / 전력 / 온도 문제
-         - [CPU 온도로 계란 익히기](https://www.youtube.com/watch?v=IxGtV0CmsT0)
-         
-   - **Chapter 2 :: Combinational Logic Design (조합회로 설계, PPT)**
-      - 4주차: 부울 식 / 논리 회로
-      - 5주차: 카르노맵
-      - 6주차: 조합회로 빌딩 블럭
-         - [동영상:조합회로와 논리회로](https://www.youtube.com/watch?v=zaWp0U3tXv4&list=PLrFy4sCm2owoj-O71kjLoNc_dMEVzUYlR&index=6)
-         
+         - 운영체제 실습: 리눅스 시스템 사용법
+         ```  
+   - **Week 2
+       - 기본적인 컴퓨터 시스템의 이해
+         ```
+         - 컴퓨터시스템의 구조 (컴퓨터시스템 연산, 입출력구조, 인터럽트)
+         - 운영체제 실습: 리눅스 시스템 사용법
+         ```    
    - **7주차: 중간고사**
    
    - **Chapter 3 :: Sequential Logic Design (순차회로 설계, PPT)**
